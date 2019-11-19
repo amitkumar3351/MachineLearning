@@ -31,4 +31,3 @@ for i in range(len(col_list)-1):
                 wordList=words
                 #newTagged =  nltk.pos_tag(wordList)
                 #print(newTagged)
-print(nltk.help.upenn_tagset)
